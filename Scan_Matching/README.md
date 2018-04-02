@@ -7,9 +7,11 @@ You will have two point cloud data(in .pcd format)
 - Target
 - Scene
 ```
+
 You should register the scene to the target by [ICP algorithm](http://docs.pointclouds.org/trunk/classpcl_1_1_iterative_closest_point.html)
+
 Also, I do [initial alignment] for better result(http://docs.pointclouds.org/1.7.1/classpcl_1_1_sample_consensus_initial_alignment.html)
-```
+
 Download the .pcd data here:
 - [target](https://drive.google.com/open?id=1fwtY0iXM2zbjaMjIPrWtkYzg9icNZJ8u)
 - [scene](https://drive.google.com/open?id=1zM5qwsZRcAugGn-vlBmgevj6j01IF9vf)
