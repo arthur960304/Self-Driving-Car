@@ -40,6 +40,13 @@ How to run the automated tests for this system
 
 `rviz`
 
+### Results
+You should be able to see the transformation matrix in the console and also data in Rviz
+```
+Transformation Matrix: 
+
+```
+
 ## Built With
 - [ROS](http://www.ros.org/)
 - [PCL](http://docs.pointclouds.org/trunk/index.html)
