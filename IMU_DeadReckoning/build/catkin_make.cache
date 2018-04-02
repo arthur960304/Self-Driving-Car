@@ -1,0 +1,2 @@
+0310126_hw3
+-DCATKIN_DEVEL_PREFIX=/home/parallels/SDC_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/SDC_ws/install -G Unix Makefiles

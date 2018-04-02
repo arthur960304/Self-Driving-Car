@@ -1,0 +1,8 @@
+prefix=/home/parallels/SDC_ws/install
+
+Name: 0310126_hw3
+Description: Description of 0310126_hw3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/SDC_ws/install/lib 
+Requires: 
