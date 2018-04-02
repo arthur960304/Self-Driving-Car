@@ -33,7 +33,7 @@ rviz
 ```
 
 ### Result
-![Result](https://github.com/simon10030950/SDC-IMU_DeadReckoning/blob/master/src/IMU_deadReckoning/result.png)
+![Result](https://github.com/simon10030950/Self-Driving-Car/blob/master/IMU_DeadReckoning/src/IMU_deadReckoning/result.png)
 
 ## Built With
 - [ROS](http://www.ros.org/)
