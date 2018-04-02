@@ -28,9 +28,12 @@ How to run the automated tests for this system
 ### Break down into steps
 
 `roscore`
-rosrun IMU_deadReckoning deadReckoning.py
-rosbag play "bag's_name"
-rviz
+
+`rosrun IMU_deadReckoning deadReckoning.py`
+
+`rosbag play "bag's_name"`
+
+`rviz`
 
 
 ### Result
