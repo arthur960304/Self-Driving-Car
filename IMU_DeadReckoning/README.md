@@ -26,12 +26,12 @@ sudo apt-get install libeigen3-dev
 How to run the automated tests for this system
 
 ### Break down into steps
-```
+
 `roscore`
 rosrun IMU_deadReckoning deadReckoning.py
 rosbag play "bag's_name"
 rviz
-```
+
 
 ### Result
 ![Result](https://github.com/simon10030950/Self-Driving-Car/blob/master/IMU_DeadReckoning/src/IMU_deadReckoning/result.png)
