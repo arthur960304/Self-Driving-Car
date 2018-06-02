@@ -56,7 +56,7 @@ Transformation Matrix:
 - [Eigen3](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
 ## Authors
-- **Simon Hsieh** - *initial work* - [simon10030950](https://github.com/simon10030950)
+- **Arthur Hsieh** - *initial work* - [arthur960304](https://github.com/arthur960304)
 
 
 
